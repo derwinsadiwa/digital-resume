@@ -163,6 +163,10 @@ li{
 
 @media(max-width:600px){
 
+    #user-name{
+        text-align: center;
+    }
+
     .section--page{
         padding-top: 1em;
         padding-bottom: 1em;
